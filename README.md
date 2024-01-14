@@ -1,10 +1,11 @@
 # LLM Compression Papers 
+
 ## Introduction
 Welcome to the LLM Compression  Papers repository! This repository is dedicated to the collection and discussion of academic and industry papers focused on the compression techniques for large language models (LLMs). As the capabilities of LLMs continue to expand, so does their size and complexity. Consequently, efficient compression methods have become crucial for making these models more accessible and practical for real-world applications. 
 
 ## Survey
 
-| 名字 | 简介 | 地址 | 会议/期刊 | 年份 | 代码 | 
+| Title | Introduction | Links | Conference | Year | Code | 
 | ---- | ---- | ---- | ---- | ---- | ---- | 
 | Efficient Large Language Models: A Survey | |[paper](https://arxiv.org/abs/2312.03863)| arxiv| 2023| [Code](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)| 
 | A Survey on Deep Neural Network Pruning-Taxonomy, Comparison, Analysis, and Recommendations | |[paper](https://arxiv.org/abs/2308.06767)| arxiv| 2023| | 
@@ -16,7 +17,7 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 
 ## Network Pruning
 
-| 名字 | 简介 | 地址 | 会议/期刊 | 年份 | 代码 | 
+| Title | Introduction | Links | Conference | Year | Code | 
 | ---- | ---- | ---- | ---- | ---- | ---- | 
 | SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot |SparseGPT |[paper](https://arxiv.org/abs/2301.00774)| ICML| 2023| [Code]( https://github.com/IST-DASLab/sparsegptP)|  
 | A Simple and Effective Pruning Approach for Large Language Models | Wanda|[paper](https://arxiv.org/abs/2306.11695)| arxiv| 2023| [Code](https://github.com/locuslab/wanda)| 
@@ -45,7 +46,7 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 
 ## Quantization  
 
-| 名字 | 简介 | 地址 | 会议/期刊 | 年份 | 代码 | 
+| Title | Introduction | Links | Conference | Year | Code | 
 | ---- | ---- | ---- | ---- | ---- | ---- | 
 | LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale | |[paper](https://arxiv.org/abs/2208.07339)| arxiv| 2023| | 
 | GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers | GPTQ|[paper](https://arxiv.org/abs/2210.17323)| ICLR| 2022| [Code](https://github.com/IST-DASLab/gptq)| 
@@ -97,7 +98,7 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 
 ## Knowledge Distillation
 
-| 名字 | 简介 | 地址 | 会议/期刊 | 年份 | 代码 | 
+| Title | Introduction | Links | Conference | Year | Code | 
 | ---- | ---- | ---- | ---- | ---- | ---- | 
 |Specializing Smaller Language Models towards Multi-Step Reasoning  | |[paper](https://arxiv.org/abs/2301.12726)| ICML| 2023| [Code](https://github.com/FranxYao/FlanT5-CoT-Specialization)| 
 |Distilling Script Knowledge from Large Language Models for Constrained Language Planning  | |[paper](https://arxiv.org/abs/2305.05252)| ACL| 2023| [Code](https://github.com/siyuyuan/coscript)| 
@@ -132,7 +133,7 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 
 ## Fusion
 
-| 名字 | 简介 | 地址 | 会议/期刊 | 年份 | 代码 | 
+| Title | Introduction | Links | Conference | Year | Code | 
 | ---- | ---- | ---- | ---- | ---- | ---- | 
 | TinySAM: Pushing the Envelope for Efficient Segment Anything Model | |[paper](https://arxiv.org/abs/2312.13789)| arxiv| 2023| [Code](https://github.com/xinghaochen/TinySAM)| 
 
