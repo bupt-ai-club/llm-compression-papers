@@ -27,7 +27,7 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 |NASH: A Simple Unified Framework of Structured Pruning for Accelerating Encoder-Decoder Language Models  | NASH|[paper](https://arxiv.org/abs/2310.10054)| EMNLP| 2023| [Code](https://github.com/jongwooko/NASH-Pruning-Official)| 
 | Pruning Large Language Models via Accuracy Predictor | |[paper](https://arxiv.org/abs/2309.09507)| arxiv| 2023| | 
 | Compressing LLMs: The Truth is Rarely Pure and Never Simple | Compressing LLMs|[paper](https://arxiv.org/abs/2310.01382)| arxiv| 2023| | 
-|Junk DNA Hypothesis: A Task-Centric Angle of LLM Pre-trained Weights through Sparsity  | |[paper](https://arxiv.org/abs/2310.02277)| arxiv| 2023| [Code](https://github.com/VITA-Group/Junk_DNA_Hypothesis)| 
+|Junk DNA Hypothesis: A Task-Centric Angle of LLM Pre-trained Weights through Sparsity  | |[paper](https://arxiv.org/abs/2310.02277)| arxiv| 2023| [Code](https://github.com/VITA-Group/Junk_DNA_Hypothesis)|  
 | Outlier Weighed Layerwise Sparsity (OWL): A Missing Secret Sauce for Pruning LLMs to High Sparsity | |[paper](https://arxiv.org/abs/2310.05175)| arxiv| 2023| [Code](https://github.com/luuyin/OWL)| 
 | Compresso: Structured Pruning with Collaborative Prompting Learns Compact Large Language Models |Compresso |[paper](https://arxiv.org/abs/2310.05015)| arxiv| 2023| [Code](https://github.com/microsoft/Moonlit/tree/main/Compresso)| 
 |Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning  |Sheared LLaMA |[paper](https://arxiv.org/abs/2310.06694)| arxiv| 2023| [Code](https://github.com/princeton-nlp/LLM-Shearing)| 
@@ -42,8 +42,9 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 | Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs  | |[paper](https://arxiv.org/abs/2310.08915)| arxiv| 2023| [Code](https://github.com/zyxxmu/DSnoT)| 
 | E-Sparse: Boosting the Large Language Model Inference through Entropy-based N:M Sparsity  |E-Sparse |[paper](https://arxiv.org/abs/2310.15929)| arxiv| 2023|| 
 | PERP: Rethinking the Prune-Retrain Paradigm in the Era of LLMs | PERP|[paper](https://arxiv.org/abs/2312.15230)| arxiv| 2023| [Code](https://github.com/ZIB-IOL/PERP)| 
-|Fast and Optimal Weight Update for Pruned Large Language Models  | |[paper](https://arxiv.org/abs/2401.02938)| arxiv| 2023| [Code](https://github.com/fmfi-compbio/admm-pruning)| 
-
+|Fast and Optimal Weight Update for Pruned Large Language Models  | |[paper](https://arxiv.org/abs/2401.02938)| arxiv| 2023| [Code](https://github.com/fmfi-compbio/admm-pruning)|  
+|QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models QMoE | |[paper](https://arxiv.org/abs/2310.16795)| arxiv| 2023| [Code](https://github.com/IST-DASLab/qmoe)|  
+ 
 ## Quantization  
 
 | Title | Introduction | Links | Conference | Year | Code | 
@@ -91,7 +92,7 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 | A Speed Odyssey for Deployable Quantization of LLMs | |[paper](https://arxiv.org/abs/2311.09550)| arxiv| 2023| |
 | LQ-LoRA: Low-rank Plus Quantized Matrix Decomposition for Efficient Language Model Finetuning | LQ-LoRA|[paper](https://arxiv.org/abs/2311.12023)| arxiv| 2023| [Code](https://github.com/HanGuo97/lq-lora)|
 | Enabling Fast 2-bit LLM on GPUs: Memory Alignment, Sparse Outlier, and Asynchronous Dequantization | |[paper](https://arxiv.org/abs/2311.16442)| arxiv| 2023| | 
-| Extreme Compression of Large Language Models via Additive Quantization | AQLM|[paper](https://arxiv.org/abs/2401.06118)| arxiv| 2023| [Code](https://github.com/vahe1994/AQLM)| 
+| Extreme Compression of Large Language Models via Additive Quantization | AQLM|[paper](https://arxiv.org/abs/2401.06118)| arxiv| 2023| [Code](https://github.com/vahe1994/AQLM)|  
 
 
 
