@@ -11,8 +11,8 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 | A Survey on Deep Neural Network Pruning-Taxonomy, Comparison, Analysis, and Recommendations | |[paper](https://arxiv.org/abs/2308.06767)| arxiv| 2023| | 
 | A Survey on Model Compression for Large Language Models | |[paper](https://arxiv.org/abs/2308.07633)| arxiv| 2023| | 
 | The Efficiency Spectrum of Large Language Models: An Algorithmic Survey | |[paper](https://arxiv.org/abs/2312.00678)| arxiv| 2023| [Code](https://github.com/tding1/Efficient-LLM-Survey)| 
-|Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems  | |[paper](https://arxiv.org/abs/2312.15234)| arxiv| 2023| | 
-| Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models | |[paper](https://arxiv.org/abs/2401.00625)| arxiv| 2023| [Code](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers)| 
+|Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems  | |[paper](https://arxiv.org/abs/2312.15234)| arxiv| 2023| |  
+| Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models | |[paper](https://arxiv.org/abs/2401.00625)| arxiv| 2023| [Code](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers)|  
 
 
 ## Network Pruning
@@ -26,7 +26,7 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 | Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity |Flash-LLM |[paper](https://arxiv.org/abs/2309.10285)| VLDB| 2024| [Code](https://github.com/AlibabaResearch/flash-llm)| 
 |NASH: A Simple Unified Framework of Structured Pruning for Accelerating Encoder-Decoder Language Models  | NASH|[paper](https://arxiv.org/abs/2310.10054)| EMNLP| 2023| [Code](https://github.com/jongwooko/NASH-Pruning-Official)| 
 | Pruning Large Language Models via Accuracy Predictor | |[paper](https://arxiv.org/abs/2309.09507)| arxiv| 2023| | 
-| Compressing LLMs: The Truth is Rarely Pure and Never Simple | Compressing LLMs|[paper](https://arxiv.org/abs/2310.01382)| arxiv| 2023| | 
+| Compressing LLMs: The Truth is Rarely Pure and Never Simple | Compressing LLMs|[paper](https://arxiv.org/abs/2310.01382)| arxiv| 2023| |  
 |Junk DNA Hypothesis: A Task-Centric Angle of LLM Pre-trained Weights through Sparsity  | |[paper](https://arxiv.org/abs/2310.02277)| arxiv| 2023| [Code](https://github.com/VITA-Group/Junk_DNA_Hypothesis)|  
 | Outlier Weighed Layerwise Sparsity (OWL): A Missing Secret Sauce for Pruning LLMs to High Sparsity | |[paper](https://arxiv.org/abs/2310.05175)| arxiv| 2023| [Code](https://github.com/luuyin/OWL)| 
 | Compresso: Structured Pruning with Collaborative Prompting Learns Compact Large Language Models |Compresso |[paper](https://arxiv.org/abs/2310.05015)| arxiv| 2023| [Code](https://github.com/microsoft/Moonlit/tree/main/Compresso)| 
@@ -42,8 +42,8 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 | Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs  | |[paper](https://arxiv.org/abs/2310.08915)| arxiv| 2023| [Code](https://github.com/zyxxmu/DSnoT)| 
 | E-Sparse: Boosting the Large Language Model Inference through Entropy-based N:M Sparsity  |E-Sparse |[paper](https://arxiv.org/abs/2310.15929)| arxiv| 2023|| 
 | PERP: Rethinking the Prune-Retrain Paradigm in the Era of LLMs | PERP|[paper](https://arxiv.org/abs/2312.15230)| arxiv| 2023| [Code](https://github.com/ZIB-IOL/PERP)| 
-|Fast and Optimal Weight Update for Pruned Large Language Models  | |[paper](https://arxiv.org/abs/2401.02938)| arxiv| 2023| [Code](https://github.com/fmfi-compbio/admm-pruning)|  
-|QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models QMoE | |[paper](https://arxiv.org/abs/2310.16795)| arxiv| 2023| [Code](https://github.com/IST-DASLab/qmoe)|  
+|Fast and Optimal Weight Update for Pruned Large Language Models  | |[paper](https://arxiv.org/abs/2401.02938)| arxiv| 2024| [Code](https://github.com/fmfi-compbio/admm-pruning)|   
+|QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models QMoE | |[paper](https://arxiv.org/abs/2310.16795)| arxiv| 2023| [Code](https://github.com/IST-DASLab/qmoe)|   
  
 ## Quantization  
 
@@ -51,7 +51,7 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 | ---- | ---- | ---- | ---- | ---- | ---- | 
 | LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale | |[paper](https://arxiv.org/abs/2208.07339)| arxiv| 2023| | 
 | GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers | GPTQ|[paper](https://arxiv.org/abs/2210.17323)| ICLR| 2022| [Code](https://github.com/IST-DASLab/gptq)| 
-|SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models  | SmoothQuant|[paper](https://arxiv.org/abs/2211.10438)| ICML| 2023| [Code](https://github.com/mit-han-lab/smoothquant)| 
+|SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models  | SmoothQuant|[paper](https://arxiv.org/abs/2211.10438)| ICML| 2023| [Code](https://github.com/mit-han-lab/smoothquant)|  
 |GPT-Zip: Deep Compression of Finetuned Large Language Models  | GPT-Zip|[paper](https://openreview.net/forum?id=hO0c2tG2xL)| ICML| 2023| | 
 | SmoothQuant+: Accurate and Efficient 4-bit Post-Training WeightQuantization for LLM | |[paper](https://arxiv.org/abs/2211.10438)| ICML| 2023| [Code](https://github.com/Adlik/smoothquantplus)| 
 | QLoRA: Efficient Finetuning of Quantized LLMs | QLoRA|[paper](https://arxiv.org/abs/2305.14314)| NeurIPS| 2023| [Code](https://github.com/artidoro/qlora)| 
