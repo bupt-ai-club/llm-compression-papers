@@ -12,7 +12,7 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 | A Survey on Model Compression for Large Language Models | |[paper](https://arxiv.org/abs/2308.07633)| arxiv| 2023| | 
 | The Efficiency Spectrum of Large Language Models: An Algorithmic Survey | |[paper](https://arxiv.org/abs/2312.00678)| arxiv| 2023| [Code](https://github.com/tding1/Efficient-LLM-Survey)| 
 |Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems  | |[paper](https://arxiv.org/abs/2312.15234)| arxiv| 2023| |  
-| Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models | |[paper](https://arxiv.org/abs/2401.00625)| arxiv| 2023| [Code](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers)|  
+| Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models | |[paper](https://arxiv.org/abs/2401.00625)| arxiv| 2023| [Code](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers)|   
 
 
 ## Network Pruning
@@ -31,10 +31,10 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 | Outlier Weighed Layerwise Sparsity (OWL): A Missing Secret Sauce for Pruning LLMs to High Sparsity | |[paper](https://arxiv.org/abs/2310.05175)| arxiv| 2023| [Code](https://github.com/luuyin/OWL)| 
 | Compresso: Structured Pruning with Collaborative Prompting Learns Compact Large Language Models |Compresso |[paper](https://arxiv.org/abs/2310.05015)| arxiv| 2023| [Code](https://github.com/microsoft/Moonlit/tree/main/Compresso)| 
 |Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning  |Sheared LLaMA |[paper](https://arxiv.org/abs/2310.06694)| arxiv| 2023| [Code](https://github.com/princeton-nlp/LLM-Shearing)| 
-| Sparse Finetuning for Inference Acceleration of Large Language Models | |[paper](https://arxiv.org/abs/2310.06927)| arxiv| 2023| [Code](https://github.com/IST-DASLab/SparseFinetuning)| 
+| Sparse Finetuning for Inference Acceleration of Large Language Models | |[paper](https://arxiv.org/abs/2310.06927)| arxiv| 2023| [Code](https://github.com/IST-DASLab/SparseFinetuning)|  
 | ReLU Strikes Back: Exploiting Activation Sparsity in Large Language Models | |[paper](https://arxiv.org/abs/2310.04564)| arxiv| 2023| | 
 | The Cost of Down-Scaling Language Models: Fact Recall Deteriorates before In-Context Learning | |[paper](https://arxiv.org/abs/2310.04680)| arxiv| 2023| | 
-| Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs | |[paper](https://arxiv.org/abs/2310.08915)| arxiv| 2023| | 
+| Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs | |[paper](https://arxiv.org/abs/2310.08915)| arxiv| 2023| |  
 | One-Shot Sensitivity-Aware Mixed Sparsity Pruning for Large Language Models | |[paper](https://arxiv.org/abs/2310.09499)| arxiv| 2023|| 
 | LoRAShear: Efficient Large Language Model Structured Pruning and Knowledge Recovery |LoRAShear |[paper](https://arxiv.org/abs/2310.18356)| arxiv| 2023| [Code]()| 
 | Divergent Token Metrics: Measuring degradation to prune away LLM components -- and optimize quantization | |[paper](https://arxiv.org/abs/2311.01544)| arxiv| 2023| [Code](https://github.com/Aleph-Alpha/Divergent_Tokens)| 
@@ -42,9 +42,10 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 | Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs  | |[paper](https://arxiv.org/abs/2310.08915)| arxiv| 2023| [Code](https://github.com/zyxxmu/DSnoT)| 
 | E-Sparse: Boosting the Large Language Model Inference through Entropy-based N:M Sparsity  |E-Sparse |[paper](https://arxiv.org/abs/2310.15929)| arxiv| 2023|| 
 | PERP: Rethinking the Prune-Retrain Paradigm in the Era of LLMs | PERP|[paper](https://arxiv.org/abs/2312.15230)| arxiv| 2023| [Code](https://github.com/ZIB-IOL/PERP)| 
-|Fast and Optimal Weight Update for Pruned Large Language Models  | |[paper](https://arxiv.org/abs/2401.02938)| arxiv| 2024| [Code](https://github.com/fmfi-compbio/admm-pruning)|   
-|QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models QMoE | |[paper](https://arxiv.org/abs/2310.16795)| arxiv| 2023| [Code](https://github.com/IST-DASLab/qmoe)|   
- 
+|Fast and Optimal Weight Update for Pruned Large Language Models  | |[paper](https://arxiv.org/abs/2401.02938)| arxiv| 2024| [Code](https://github.com/fmfi-compbio/admm-pruning)|    
+|QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models QMoE | |[paper](https://arxiv.org/abs/2310.16795)| arxiv| 2023| [Code](https://github.com/IST-DASLab/qmoe)|    
+|SPViT: Enabling Faster Vision Transformers via Soft Token Pruning | |[paper](https://arxiv.org/abs/2112.13890)|TPAMI| 2024| [Code](https://github.com/ziplab/SPViT)| 
+
 ## Quantization  
 
 | Title | Introduction | Links | Conference | Year | Code | 
