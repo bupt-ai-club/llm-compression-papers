@@ -56,8 +56,8 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 | SmoothQuant+: Accurate and Efficient 4-bit Post-Training WeightQuantization for LLM | |[paper](https://arxiv.org/abs/2211.10438)| ICML| 2023| [Code](https://github.com/Adlik/smoothquantplus)| 
 | QLoRA: Efficient Finetuning of Quantized LLMs | QLoRA|[paper](https://arxiv.org/abs/2305.14314)| NeurIPS| 2023| [Code](https://github.com/artidoro/qlora)| 
 | QuIP: 2-Bit Quantization of Large Language Models With Guarantees | QuIP|[paper](https://.org/abs/2307.13304)| NeurIPS| 2023| [Code](https://github.com/jerry-chee/QuIP)| 
-|Memory-Efficient Fine-Tuning of Compressed Large Language Models via sub-4-bit Integer Quantization  | |[paper](https://arxiv.org/abs/2305.14152)| NeurIPS| 2023| | 
-| Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing | |[paper](https://arxiv.org/abs/2306.12929)| NeurIPS| 2023| [Code](https://github.com/Qualcomm-AI-research/outlier-free-transformers)| 
+|Memory-Efficient Fine-Tuning of Compressed Large Language Models via sub-4-bit Integer Quantization  | |[paper](https://arxiv.org/abs/2305.14152)| NeurIPS| 2023| |  
+| Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing | |[paper](https://arxiv.org/abs/2306.12929)| NeurIPS| 2023| [Code](https://github.com/Qualcomm-AI-research/outlier-free-transformers)|  
 | LLM-FP4: 4-Bit Floating-Point Quantized Transformers | LLM-FP4|[paper](https://arxiv.org/abs/2310.16836)| EMNLP| 2023| [Code](https://github.com/nbasyl/LLM-FP4)| 
 |Enhancing Computation Efficiency in Large Language Models through Weight and Activation Quantization  | |[paper](https://arxiv.org/abs/2311.05161)| EMNLP| 2023| | 
 | Agile-Quant: Activation-Guided Quantization for Faster Inference of LLMs on the Edge |Agile-Quant |[paper](https://arxiv.org/abs/2312.05693)| AAAI| 2024| | 
@@ -70,21 +70,21 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 |Outlier Suppression+: Accurate quantization of large language models by equivalent and optimal shifting and scaling  | |[paper](https://arxiv.org/abs/2304.09145v1)| arxiv| 2023| | 
 | Integer or Floating Point? New Outlooks for Low-Bit Quantization on Large Language Models | |[paper](https://arxiv.org/abs/2305.12356)| arxiv| 2023| | 
 | LLM-QAT: Data-Free Quantization Aware Training for Large Language Models | LLM-QAT|[paper](https://arxiv.org/abs/2305.17888)| arxiv| 2023| | 
-| SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression |SpQR |[paper](https://arxiv.org/abs/2306.03078)| arxiv| 2023| [Code](https://github.com/Vahe1994/SpQR)| 
+| SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression |SpQR |[paper](https://arxiv.org/abs/2306.03078)| arxiv| 2023| [Code](https://github.com/Vahe1994/SpQR)|  
 | OWQ: Lessons learned from activation outliers for weight quantization in large language models |OWQ |[paper](https://arxiv.org/abs/2306.02272)| arxiv| 2023| [Code](https://github.com/xvyaward/owq)| 
 |Do Emergent Abilities Exist in Quantized Large Language Models: An Empirical Study  | |[paper](https://arxiv.org/abs/2307.08072)| arxiv| 2023| [Code](https://github.com/RUCAIBox/QuantizedEmpirical)| 
 | ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats |ZeroQuant-FP |[paper](https://arxiv.org/abs/2307.09782)| arxiv| 2023| | 
 | FPTQ: Fine-grained Post-Training Quantization for Large Language Models |FPTQ |[paper](https://arxiv.org/abs/2308.15987)| arxiv| 2023| | 
 |QuantEase: Optimization-based Quantization for Language Models - An Efficient and Intuitive Algorithm  |QuantEase |[paper](https://arxiv.org/abs/2309.01885)| arxiv| 2023| | 
 | Norm Tweaking: High-performance Low-bit Quantization of Large Language Models | |[paper](https://arxiv.org/abs/2309.02784)| arxiv| 2023| | 
-| Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs | |[paper](https://arxiv.org/abs/2309.05516)| arxiv| 2023| [Code](https://github.com/intel/neural-compressor)| 
+| Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs | |[paper](https://arxiv.org/abs/2309.05516)| arxiv| 2023| [Code](https://github.com/intel/neural-compressor)|  
 | QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models |QA-LoRA |[paper](https://arxiv.org/abs/2309.14717)| arxiv| 2023| [Code](https://github.com/yuhuixu1993/qa-lora)| 
 | ModuLoRA: Finetuning 3-Bit LLMs on Consumer GPUs by Integrating with Modular Quantizers | ModuLoRA|[paper](https://arxiv.org/abs/2309.16119)| arxiv| 2023| | 
 | Dual Grained Quantization: Efficient Fine-Grained Quantization for LLM | |[paper](https://arxiv.org/abs/2310.04836)| arxiv| 2023|| 
 |QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources  |QFT |[paper](https://arxiv.org/abs/2310.07147)| arxiv| 2023|| 
-|QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models  |QLLM |[paper](https://arxiv.org/abs/2310.08041)| arxiv| 2023| | 
-| LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models |LoftQ |[paper](https://arxiv.org/abs/2310.08659)| arxiv| 2023| |
-| TEQ: Trainable Equivalent Transformation for Quantization of LLMs | TEQ|[paper](https://arxiv.org/abs/2310.10944)| arxiv| 2023| [Code](https://github.com/intel/neural-compressor)|
+|QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models  |QLLM |[paper](https://arxiv.org/abs/2310.08041)| arxiv| 2023| |  
+| LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models |LoftQ |[paper](https://arxiv.org/abs/2310.08659)| ICLR| 2024|[Code](https://github.com/yxli2123/LoftQ)| 
+| TEQ: Trainable Equivalent Transformation for Quantization of LLMs | TEQ|[paper](https://arxiv.org/abs/2310.10944)| arxiv| 2023| [Code](https://github.com/intel/neural-compressor)| 
 | BitNet: Scaling 1-bit Transformers for Large Language Models | |[paper](https://arxiv.org/abs/2310.11453)| arxiv| 2023| |
 | Atom: Low-bit Quantization for Efficient and Accurate LLM Serving |Atom |[paper](https://arxiv.org/abs/2310.19102)| arxiv| 2023| |
 | AWEQ: Post-Training Quantization with Activation-Weight Equalization for Large Language Models | |[paper](https://arxiv.org/abs/2311.01305)| arxiv| 2023| |
