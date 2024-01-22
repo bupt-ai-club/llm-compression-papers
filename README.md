@@ -33,7 +33,7 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 |Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning  |Sheared LLaMA |[paper](https://arxiv.org/abs/2310.06694)| arxiv| 2023| [Code](https://github.com/princeton-nlp/LLM-Shearing)| 
 | Sparse Finetuning for Inference Acceleration of Large Language Models | |[paper](https://arxiv.org/abs/2310.06927)| arxiv| 2023| [Code](https://github.com/IST-DASLab/SparseFinetuning)|  
 | ReLU Strikes Back: Exploiting Activation Sparsity in Large Language Models | |[paper](https://arxiv.org/abs/2310.04564)| arxiv| 2023| | 
-| The Cost of Down-Scaling Language Models: Fact Recall Deteriorates before In-Context Learning | |[paper](https://arxiv.org/abs/2310.04680)| arxiv| 2023| | 
+| The Cost of Down-Scaling Language Models: Fact Recall Deteriorates before In-Context Learning | |[paper](https://arxiv.org/abs/2310.04680)| arxiv| 2023| |  
 | Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs | |[paper](https://arxiv.org/abs/2310.08915)| arxiv| 2023| |  
 | One-Shot Sensitivity-Aware Mixed Sparsity Pruning for Large Language Models | |[paper](https://arxiv.org/abs/2310.09499)| arxiv| 2023|| 
 | LoRAShear: Efficient Large Language Model Structured Pruning and Knowledge Recovery |LoRAShear |[paper](https://arxiv.org/abs/2310.18356)| arxiv| 2023| [Code]()| 
@@ -44,7 +44,7 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 | PERP: Rethinking the Prune-Retrain Paradigm in the Era of LLMs | PERP|[paper](https://arxiv.org/abs/2312.15230)| arxiv| 2023| [Code](https://github.com/ZIB-IOL/PERP)| 
 |Fast and Optimal Weight Update for Pruned Large Language Models  | |[paper](https://arxiv.org/abs/2401.02938)| arxiv| 2024| [Code](https://github.com/fmfi-compbio/admm-pruning)|    
 |QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models QMoE | |[paper](https://arxiv.org/abs/2310.16795)| arxiv| 2023| [Code](https://github.com/IST-DASLab/qmoe)|    
-|SPViT: Enabling Faster Vision Transformers via Soft Token Pruning | |[paper](https://arxiv.org/abs/2112.13890)|TPAMI| 2024| [Code](https://github.com/ziplab/SPViT)| 
+ 
 
 ## Quantization  
 
