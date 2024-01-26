@@ -8,7 +8,7 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 | Title | Introduction | Links | Conference | Year | Code | 
 | ---- | ---- | ---- | ---- | ---- | ---- | 
 | Efficient Large Language Models: A Survey | |[paper](https://arxiv.org/abs/2312.03863)| arxiv| 2023| [Code](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)| 
-| A Survey on Deep Neural Network Pruning-Taxonomy, Comparison, Analysis, and Recommendations | |[paper](https://arxiv.org/abs/2308.06767)| arxiv| 2023| | 
+| A Survey on Deep Neural Network Pruning:Taxonomy, Comparison, Analysis, and Recommendations | |[paper](https://arxiv.org/abs/2308.06767)| arxiv| 2023|[Code](https://github.com/hrcheng1066/awesome-pruning) | 
 | A Survey on Model Compression for Large Language Models | |[paper](https://arxiv.org/abs/2308.07633)| arxiv| 2023| | 
 | The Efficiency Spectrum of Large Language Models: An Algorithmic Survey | |[paper](https://arxiv.org/abs/2312.00678)| arxiv| 2023| [Code](https://github.com/tding1/Efficient-LLM-Survey)| 
 |Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems  | |[paper](https://arxiv.org/abs/2312.15234)| arxiv| 2023| |  
