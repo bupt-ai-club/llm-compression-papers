@@ -95,7 +95,7 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 | Enabling Fast 2-bit LLM on GPUs: Memory Alignment, Sparse Outlier, and Asynchronous Dequantization | |[paper](https://arxiv.org/abs/2311.16442)| arxiv| 2023| | 
 | Extreme Compression of Large Language Models via Additive Quantization | AQLM|[paper](https://arxiv.org/abs/2401.06118)| arxiv| 2023| [Code](https://github.com/vahe1994/AQLM)|  
 |QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models QMoE | |[paper](https://arxiv.org/abs/2310.16795)| arxiv| 2023| [Code](https://github.com/IST-DASLab/qmoe)|   
-
+|OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models | |[paper](https://arxiv.org/abs/2308.13137)| arxiv| 2023| [Code](https://github.com/OpenGVLab/OmniQuant)| 
 
 
 ## Knowledge Distillation
