@@ -42,9 +42,9 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 | Dynamic Sparse No Training: Training-Free Fine-tuning for Sparse LLMs  | |[paper](https://arxiv.org/abs/2310.08915)| arxiv| 2023| [Code](https://github.com/zyxxmu/DSnoT)| 
 | E-Sparse: Boosting the Large Language Model Inference through Entropy-based N:M Sparsity  |E-Sparse |[paper](https://arxiv.org/abs/2310.15929)| arxiv| 2023|| 
 | PERP: Rethinking the Prune-Retrain Paradigm in the Era of LLMs | PERP|[paper](https://arxiv.org/abs/2312.15230)| arxiv| 2023| [Code](https://github.com/ZIB-IOL/PERP)| 
-|Fast and Optimal Weight Update for Pruned Large Language Models  | |[paper](https://arxiv.org/abs/2401.02938)| arxiv| 2024| [Code](https://github.com/fmfi-compbio/admm-pruning)|    
-|QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models QMoE | |[paper](https://arxiv.org/abs/2310.16795)| arxiv| 2023| [Code](https://github.com/IST-DASLab/qmoe)|    
- 
+|Fast and Optimal Weight Update for Pruned Large Language Models  | |[paper](https://arxiv.org/abs/2401.02938)| arxiv| 2024| [Code](https://github.com/fmfi-compbio/admm-pruning)|     
+|SliceGPT: Compress Large Language Models by Deleting Rows and Columns | |[paper](https://arxiv.org/abs/2401.15024)| arxiv| 2024| [Code](https://github.com/microsoft/TransformerCompression)| 
+
 
 ## Quantization  
 
@@ -94,7 +94,7 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 | LQ-LoRA: Low-rank Plus Quantized Matrix Decomposition for Efficient Language Model Finetuning | LQ-LoRA|[paper](https://arxiv.org/abs/2311.12023)| arxiv| 2023| [Code](https://github.com/HanGuo97/lq-lora)|
 | Enabling Fast 2-bit LLM on GPUs: Memory Alignment, Sparse Outlier, and Asynchronous Dequantization | |[paper](https://arxiv.org/abs/2311.16442)| arxiv| 2023| | 
 | Extreme Compression of Large Language Models via Additive Quantization | AQLM|[paper](https://arxiv.org/abs/2401.06118)| arxiv| 2023| [Code](https://github.com/vahe1994/AQLM)|  
-
+|QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models QMoE | |[paper](https://arxiv.org/abs/2310.16795)| arxiv| 2023| [Code](https://github.com/IST-DASLab/qmoe)|   
 
 
 
