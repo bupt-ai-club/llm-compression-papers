@@ -6,13 +6,15 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 ## Survey
 
 | Title | Introduction | Links | Conference | Year | Code | 
-| ---- | ---- | ---- | ---- | ---- | ---- | 
-| Efficient Large Language Models: A Survey | |[paper](https://arxiv.org/abs/2312.03863)| arxiv| 2023| [Code](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)| 
+| ---- | ---- | ---- | ---- | ---- | ---- |  
+| Efficient Large Language Models: A Survey | |[paper](https://arxiv.org/abs/2312.03863)| arxiv| 2023| [Code](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)|  
 | A Survey on Deep Neural Network Pruning:Taxonomy, Comparison, Analysis, and Recommendations | |[paper](https://arxiv.org/abs/2308.06767)| arxiv| 2023|[Code](https://github.com/hrcheng1066/awesome-pruning) | 
 | A Survey on Model Compression for Large Language Models | |[paper](https://arxiv.org/abs/2308.07633)| arxiv| 2023| | 
 | The Efficiency Spectrum of Large Language Models: An Algorithmic Survey | |[paper](https://arxiv.org/abs/2312.00678)| arxiv| 2023| [Code](https://github.com/tding1/Efficient-LLM-Survey)| 
 |Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems  | |[paper](https://arxiv.org/abs/2312.15234)| arxiv| 2023| |  
-| Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models | |[paper](https://arxiv.org/abs/2401.00625)| arxiv| 2023| [Code](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers)|   
+| Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models | |[paper](https://arxiv.org/abs/2401.00625)| arxiv| 2023| [Code](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers)|
+| A Survey on Transformer Compression | |[paper](https://arxiv.org/abs/2402.05964)| arxiv| 2024| |   
+
 
 
 ## Network Pruning
@@ -20,7 +22,7 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 | Title | Introduction | Links | Conference | Year | Code | 
 | ---- | ---- | ---- | ---- | ---- | ---- | 
 | SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot |SparseGPT |[paper](https://arxiv.org/abs/2301.00774)| ICML| 2023| [Code]( https://github.com/IST-DASLab/sparsegptP)|  
-| A Simple and Effective Pruning Approach for Large Language Models | Wanda|[paper](https://arxiv.org/abs/2306.11695)| arxiv| 2023| [Code](https://github.com/locuslab/wanda)| 
+| A Simple and Effective Pruning Approach for Large Language Models | Wanda|[paper](https://arxiv.org/abs/2306.11695)| arxiv| 2023| [Code](https://github.com/locuslab/wanda)|  
 | LLM-Pruner: On the Structural Pruning of Large Language Models |LLM-Pruner |[paper](https://arxiv.org/abs/2305.11627)| NeurIPS| 2023| [Code](https://github.com/horseee/LLM-Pruner)| 
 | The Emergence of Essential Sparsity in Large Pre-trained Models: The Weights that Matter | |[paper](https://arxiv.org/abs/2306.03805)| NeurIPS| 2023| [Code](https://github.com/VITA-Group/essential_sparsity)| 
 | Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity |Flash-LLM |[paper](https://arxiv.org/abs/2309.10285)| VLDB| 2024| [Code](https://github.com/AlibabaResearch/flash-llm)| 
@@ -43,8 +45,8 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 | E-Sparse: Boosting the Large Language Model Inference through Entropy-based N:M Sparsity  |E-Sparse |[paper](https://arxiv.org/abs/2310.15929)| arxiv| 2023|| 
 | PERP: Rethinking the Prune-Retrain Paradigm in the Era of LLMs | PERP|[paper](https://arxiv.org/abs/2312.15230)| arxiv| 2023| [Code](https://github.com/ZIB-IOL/PERP)| 
 |Fast and Optimal Weight Update for Pruned Large Language Models  | |[paper](https://arxiv.org/abs/2401.02938)| arxiv| 2024| [Code](https://github.com/fmfi-compbio/admm-pruning)|     
-|SliceGPT: Compress Large Language Models by Deleting Rows and Columns | |[paper](https://arxiv.org/abs/2401.15024)| arxiv| 2024| [Code](https://github.com/microsoft/TransformerCompression)| 
-
+|SliceGPT: Compress Large Language Models by Deleting Rows and Columns | |[paper](https://arxiv.org/abs/2401.15024)| arxiv| 2024| [Code](https://github.com/microsoft/TransformerCompression)|  
+|Shortened LLaMA: A Simple Depth Pruning for Large Language Models | |[paper](https://arxiv.org/abs/2402.02834)| arxiv| 2024||  
 
 ## Quantization  
 
