@@ -5,16 +5,17 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 
 ## Survey
 
+
 | Title | Introduction | Links | Conference | Year | Code | 
-| ---- | ---- | ---- | ---- | ---- | ---- |  
-| Efficient Large Language Models: A Survey | |[paper](https://arxiv.org/abs/2312.03863)| arxiv| 2023| [Code](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)|  
+| ---- | ---- | ---- | ---- | ---- | ---- | 
+| SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot |SparseGPT |[paper](https://arxiv.org/abs/2301.00774)| ICML| 2023| [Code]( https://github.com/IST-DASLab/sparsegptP)|  
+| Efficient Large Language Models: A Survey | |[paper](https://arxiv.org/abs/2312.03863)| arxiv| 2023| [Code](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)| 
 | A Survey on Deep Neural Network Pruning:Taxonomy, Comparison, Analysis, and Recommendations | |[paper](https://arxiv.org/abs/2308.06767)| arxiv| 2023|[Code](https://github.com/hrcheng1066/awesome-pruning) | 
-| A Survey on Model Compression for Large Language Models | |[paper](https://arxiv.org/abs/2308.07633)| arxiv| 2023| | 
+| A Survey on Model Compression for Large Language Models | |[paper](https://arxiv.org/abs/2308.07633)| arxiv| 2023|    | 
 | The Efficiency Spectrum of Large Language Models: An Algorithmic Survey | |[paper](https://arxiv.org/abs/2312.00678)| arxiv| 2023| [Code](https://github.com/tding1/Efficient-LLM-Survey)| 
 |Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems  | |[paper](https://arxiv.org/abs/2312.15234)| arxiv| 2023| |  
 | Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models | |[paper](https://arxiv.org/abs/2401.00625)| arxiv| 2023| [Code](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers)|
-| A Survey on Transformer Compression ||[paper](https://arxiv.org/abs/2402.05964)| arxiv| 2024| | 
-
+| A Survey on Transformer Compression | |[paper](https://arxiv.org/abs/2402.05964)| arxiv| 2024|  | 
 
 
 ## Network Pruning
