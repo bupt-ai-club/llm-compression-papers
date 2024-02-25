@@ -13,7 +13,7 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 | The Efficiency Spectrum of Large Language Models: An Algorithmic Survey | |[paper](https://arxiv.org/abs/2312.00678)| arxiv| 2023| [Code](https://github.com/tding1/Efficient-LLM-Survey)| 
 |Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems  | |[paper](https://arxiv.org/abs/2312.15234)| arxiv| 2023| |  
 | Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models | |[paper](https://arxiv.org/abs/2401.00625)| arxiv| 2023| [Code](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers)|
-| A Survey on Transformer Compression | |[paper](https://arxiv.org/abs/2402.05964)| arxiv| 2024| |   
+| A Survey on Transformer Compression | |[paper](https://arxiv.org/abs/2402.05964)| arxiv| 2024| |  |  
 
 
 
