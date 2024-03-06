@@ -49,7 +49,7 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 |SliceGPT: Compress Large Language Models by Deleting Rows and Columns | |[paper](https://arxiv.org/abs/2401.15024)| arxiv| 2024| [Code](https://github.com/microsoft/TransformerCompression)|   
 |Shortened LLaMA: A Simple Depth Pruning for Large Language Models | |[paper](https://arxiv.org/abs/2402.02834)| arxiv| 2024||   
 |SLEB: Streamlining LLMs through Redundancy Verification and Elimination of Transformer Blocks | |[paper](https://arxiv.org/abs/2402.09025)| arxiv| 2024| [Code](https://github.com/leapingjagg-dev/SLEB)| 
-| HiRE: High Recall Approximate Top-k Estimation for Efficient LLM Inference| |[paper](https://arxiv.org/abs/2402.09360)| arxiv||  
+| HiRE: High Recall Approximate Top-k Estimation for Efficient LLM Inference| |[paper](https://arxiv.org/abs/2402.09360)| arxiv|2024| |  
 | LaCo: Large Language Model Pruning via Layer Collapse| |[paper](https://arxiv.org/abs/2402.11187)| arxiv| 2024| |  
 |ProSparse: Introducing and Enhancing Intrinsic Activation Sparsity within Large Language Models | |[paper](https://arxiv.org/abs/2402.13516)| arxiv| 2024| [Code](https://github.com/Raincleared-Song/sparse_gpu_operator)|  
 |EBFT: Effective and Block-Wise Fine-Tuning for Sparse LLMs | |[paper](https://arxiv.org/abs/2402.12419)| arxiv| 2024| [Code](https://github.com/sunggo/EBFT)|  
