@@ -46,12 +46,18 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 | E-Sparse: Boosting the Large Language Model Inference through Entropy-based N:M Sparsity  |E-Sparse |[paper](https://arxiv.org/abs/2310.15929)| arxiv| 2023|| 
 | PERP: Rethinking the Prune-Retrain Paradigm in the Era of LLMs | PERP|[paper](https://arxiv.org/abs/2312.15230)| arxiv| 2023| [Code](https://github.com/ZIB-IOL/PERP)| 
 |Fast and Optimal Weight Update for Pruned Large Language Models  | |[paper](https://arxiv.org/abs/2401.02938)| arxiv| 2024| [Code](https://github.com/fmfi-compbio/admm-pruning)|     
-|SliceGPT: Compress Large Language Models by Deleting Rows and Columns | |[paper](https://arxiv.org/abs/2401.15024)| arxiv| 2024| [Code](https://github.com/microsoft/TransformerCompression)|  
-|Shortened LLaMA: A Simple Depth Pruning for Large Language Models | |[paper](https://arxiv.org/abs/2402.02834)| arxiv| 2024||  
+|SliceGPT: Compress Large Language Models by Deleting Rows and Columns | |[paper](https://arxiv.org/abs/2401.15024)| arxiv| 2024| [Code](https://github.com/microsoft/TransformerCompression)|   
+|Shortened LLaMA: A Simple Depth Pruning for Large Language Models | |[paper](https://arxiv.org/abs/2402.02834)| arxiv| 2024||   
+|SLEB: Streamlining LLMs through Redundancy Verification and Elimination of Transformer Blocks | |[paper](https://arxiv.org/abs/2402.09025)| arxiv| 2024| [Code](https://github.com/leapingjagg-dev/SLEB)| 
+| HiRE: High Recall Approximate Top-k Estimation for Efficient LLM Inference| |[paper](https://arxiv.org/abs/2402.09360)| arxiv||  
+| LaCo: Large Language Model Pruning via Layer Collapse| |[paper](https://arxiv.org/abs/2402.11187)| arxiv| 2024| |  
+|ProSparse: Introducing and Enhancing Intrinsic Activation Sparsity within Large Language Models | |[paper](https://arxiv.org/abs/2402.13516)| arxiv| 2024| [Code](https://github.com/Raincleared-Song/sparse_gpu_operator)|  
+|EBFT: Effective and Block-Wise Fine-Tuning for Sparse LLMs | |[paper](https://arxiv.org/abs/2402.12419)| arxiv| 2024| [Code](https://github.com/sunggo/EBFT)|  
+|BESA: Pruning Large Language Models with Blockwise Parameter-Efficient Sparsity Allocation | |[paper](https://arxiv.org/abs/2402.16880)| arxiv| 2024| [Code](https://github.com/OpenGVLab/LLMPrune-BESA)|
 
 ## Quantization  
 
-| Title | Introduction | Links | Conference | Year | Code | 
+| Title | Introduction | Links | Conference | Year | Code |  
 | ---- | ---- | ---- | ---- | ---- | ---- | 
 | LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale | |[paper](https://arxiv.org/abs/2208.07339)| arxiv| 2023| | 
 | GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers | GPTQ|[paper](https://arxiv.org/abs/2210.17323)| ICLR| 2022| [Code](https://github.com/IST-DASLab/gptq)| 
@@ -59,7 +65,7 @@ Welcome to the LLM Compression  Papers repository! This repository is dedicated 
 |GPT-Zip: Deep Compression of Finetuned Large Language Models  | GPT-Zip|[paper](https://openreview.net/forum?id=hO0c2tG2xL)| ICML| 2023| | 
 | SmoothQuant+: Accurate and Efficient 4-bit Post-Training WeightQuantization for LLM | |[paper](https://arxiv.org/abs/2211.10438)| ICML| 2023| [Code](https://github.com/Adlik/smoothquantplus)| 
 | QLoRA: Efficient Finetuning of Quantized LLMs | QLoRA|[paper](https://arxiv.org/abs/2305.14314)| NeurIPS| 2023| [Code](https://github.com/artidoro/qlora)| 
-| QuIP: 2-Bit Quantization of Large Language Models With Guarantees | QuIP|[paper](https://.org/abs/2307.13304)| NeurIPS| 2023| [Code](https://github.com/jerry-chee/QuIP)| 
+| QuIP: 2-Bit Quantization of Large Language Models With Guarantees | QuIP|[paper](https://.org/abs/2307.13304)| NeurIPS| 2023| [Code](https://github.com/jerry-chee/QuIP)|  
 |Memory-Efficient Fine-Tuning of Compressed Large Language Models via sub-4-bit Integer Quantization  | |[paper](https://arxiv.org/abs/2305.14152)| NeurIPS| 2023| |  
 | Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing | |[paper](https://arxiv.org/abs/2306.12929)| NeurIPS| 2023| [Code](https://github.com/Qualcomm-AI-research/outlier-free-transformers)|  
 | LLM-FP4: 4-Bit Floating-Point Quantized Transformers | LLM-FP4|[paper](https://arxiv.org/abs/2310.16836)| EMNLP| 2023| [Code](https://github.com/nbasyl/LLM-FP4)| 
